@@ -1,4 +1,4 @@
-# cep-finder-reactjs
+# App CEP Finder
 Aplicativo desenvolvido para consultas de CEPs. Construído com React Native, utilizando ViaCEP como API para requisição do CEP.
 
 # Tecnologias utilizadas:
